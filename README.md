@@ -10,4 +10,4 @@ Cada uno de estos capítulos puede contener:
  Los proyectos de los distintos capítulos están referidos al avance de los distintos proyectos que el alumno podrá realizar (independientemente de las entregas o trabajos de la asignatura) para asimilar conceptos de Android. Tales proyectos son cortos y tocan los distintos aspectos a tener en cuenta para el correcto desarrollo de los distintos proyectos/ejercicios de la asignatura.
  
  Es recomendable seguir cada PDF junto con el proyecto (de cada tema) descargado y listo en Android Studio.
- Inicialmente el alumno deberá adquirir habilidades con Android Studio pero conforme éste haya cogido soltura, se deberá centrar más en aprender la teoría que en programar de nuevo el proyecto de cda tema.
+ Inicialmente el alumno deberá adquirir habilidades con Android Studio, pero conforme éste haya cogido soltura, se deberá centrar más en aprender la teoría que en programar de nuevo el proyecto de cada tema.
